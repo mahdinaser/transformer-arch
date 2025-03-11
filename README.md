@@ -1,4 +1,4 @@
-# Transformer-arch
+# Transformer-Arch
 This script builds a multi-task transformer model using TensorFlow/Keras for:
 
 Sentence Classification (e.g., Tech, Politics, Landmarks, Business Acquisitions).
